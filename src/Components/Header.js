@@ -1,9 +1,10 @@
 import React from "react";
 import Logout from "./Logout";
+import styles from "./Header.module.css";
 
 const Header = () => {
   return (
-    <header>
+    <header className={styles.header}>
       <h1>Mini Dogs</h1>
       <Logout />
     </header>

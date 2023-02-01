@@ -1,0 +1,19 @@
+.logout {
+  cursor: pointer;
+  padding: 0px;
+  margin: 0px;
+  display: block;
+  background: white;
+  width: 0.625rem;
+  height: 0.625rem;
+  border: 2px solid;
+  border-radius: 50%;
+}
+
+.logout.loading {
+  background: orange;
+}
+
+.logout.loaded {
+  background: greenyellow;
+}

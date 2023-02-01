@@ -140,6 +140,8 @@ img {
 
 /* GENERAL STYLES */
 
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap");
+
 body {
   display: flex;
   flex-direction: column;
@@ -147,7 +149,7 @@ body {
   max-width: 100%;
   align-items: center;
   margin-top: 10rem;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "DM Sans", Arial, sans-serif;
 }
 
 .container {
