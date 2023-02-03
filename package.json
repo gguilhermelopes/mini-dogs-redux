@@ -1,7 +1,7 @@
 {
   "name": "react-redux",
   "version": "0.1.0",
-  "homepage": "https://gguilhermelopes.github.io/mini-dogs",
+  "homepage": "https://gguilhermelopes.github.io/mini-dogs-redux",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
