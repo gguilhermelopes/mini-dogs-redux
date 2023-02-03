@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mini-dogs/static/css/main.dd1e10ee.css",
-    "main.js": "/mini-dogs/static/js/main.95ffea14.js",
-    "index.html": "/mini-dogs/index.html",
-    "main.dd1e10ee.css.map": "/mini-dogs/static/css/main.dd1e10ee.css.map",
-    "main.95ffea14.js.map": "/mini-dogs/static/js/main.95ffea14.js.map"
+    "main.css": "/mini-dogs-redux/static/css/main.dd1e10ee.css",
+    "main.js": "/mini-dogs-redux/static/js/main.95ffea14.js",
+    "index.html": "/mini-dogs-redux/index.html",
+    "main.dd1e10ee.css.map": "/mini-dogs-redux/static/css/main.dd1e10ee.css.map",
+    "main.95ffea14.js.map": "/mini-dogs-redux/static/js/main.95ffea14.js.map"
   },
   "entrypoints": [
     "static/css/main.dd1e10ee.css",
