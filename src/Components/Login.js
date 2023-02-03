@@ -15,7 +15,7 @@ const Login = () => {
   }
 
   return (
-    <form onSubmit={handleSubmit} className={styles.form}>
+    <form onSubmit={handleSubmit} className={`${styles.form} anime`}>
       <label htmlFor="username">Usuário</label>
       <input
         id="username"
@@ -30,6 +30,7 @@ const Login = () => {
         value={password}
         onChange={({ target }) => setPassword(target.value)}
       />
+
       <button>Login</button>
     </form>
   );

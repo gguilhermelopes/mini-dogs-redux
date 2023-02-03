@@ -1,0 +1,25 @@
+.list li {
+  display: grid;
+  grid-template-columns: 3.15rem 1fr auto;
+  grid-template-rows: 3.15rem;
+  align-items: center;
+  gap: 1rem;
+  background: #f9f9f9;
+  border-radius: 0.3rem;
+  margin-bottom: 1rem;
+  padding-right: 1rem;
+}
+
+.list img {
+  border-radius: 0.3rem;
+}
+
+.list h2 {
+  font-size: 1rem;
+}
+
+.list span {
+  font-family: monospace;
+  font-size: 0.875rem;
+  color: #999;
+}

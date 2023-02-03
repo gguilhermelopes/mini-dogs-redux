@@ -1,0 +1,25 @@
+.loading {
+  height: 3px;
+  background: black;
+  overflow: hidden;
+  max-width: 30%;
+  margin: 2rem auto;
+}
+
+.loading::after {
+  content: "";
+  display: block;
+  width: 70%;
+  height: 3px;
+  background: white;
+  animation: loading 0.5s linear forwards infinite;
+}
+
+@keyframes loading {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(130%);
+  }
+}
